@@ -16,7 +16,7 @@ rm -rf MAFIYA
 
 git clone https://github.com/ROKY-009/MAFIYA
 
-cd FIRE-009
+cd MAFIYA
 
 python3 MAFIYA.py
 
