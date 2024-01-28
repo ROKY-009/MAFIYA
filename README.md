@@ -12,12 +12,11 @@ pip install bs4
 
 pkg install git
 
-rm -rf FIRE-009
+rm -rf MAFIYA
 
-git clone https://github.com/ROKY-009/FIRE-009
+git clone https://github.com/ROKY-009/MAFIYA
 
 cd FIRE-009
-
-python3 Fire.py
+python3 MAFIYA.py
 
 # Note: (This Tools Are Free)
