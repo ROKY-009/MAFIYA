@@ -1,5 +1,6 @@
 #খানকীর পোলা ফাইল পারলে চুরি করে দেখা 
 #তোর আব্বু তারেক এর ফাইল নিবি
+#FREE_TRIAL
 #I AM FUCK YOU
 import platform,os,time
 bit = platform.architecture()[0]
